@@ -9,7 +9,7 @@ import './NavBar.scss';
 export const NavBar: React.FC = () => {
   const [map, setMap] = useState<google.maps.Map | null>(null);
 
-  const apiKey = process.env.Key ?? '';
+  const apiKey = 'AIzaSyAYd6GORf3u4BNL9OSI4QaYaRGQVLsOYfU';
 
   const { isLoaded } = useJsApiLoader({
     googleMapsApiKey: apiKey,
