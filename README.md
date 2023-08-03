@@ -1,6 +1,6 @@
 # React TypeScript Starter Pack
 
-To use this template click `Use this template`
+Demo: https://11olya112.github.io/navigation_bar/
 
 ### Available Scripts
 
