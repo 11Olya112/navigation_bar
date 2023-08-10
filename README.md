@@ -1,9 +1,22 @@
-# React TypeScript Starter Pack
+# GoogleMap
 
-Demo: https://11olya112.github.io/navigation_bar/
+It's a application that will allow the user to plot a route from point A to point B,
+and will also provide information on the distance and approximate time of the route from point A to point B.
+- [DEMO](https://cocktails-web-5cufidem5-11olya112.vercel.app/)
 
-### Available Scripts
+## Description
 
-`Deploy` - available to deploy your application to gh-pages
+Technologies: React.js, Typescript.
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+### Dependencies
+* Node v12.16.3 and higher
+* NPM v6.14.4 and higher
+
+### Installing
+* Fork and clone this repository
+* Run `npm install` in your terminal
+* Run `npm start`
+
+## Troubleshooting
+
+For any contributing or problem solving you could find me [here](https://t.me/olya_bush_3).
